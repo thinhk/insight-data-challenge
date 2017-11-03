@@ -1,4 +1,4 @@
-#insight-data-challenge
+# insight-data-challenge
 
 Thank you for the opportunity to participate in this challenge! Also thanks for the extension because I was on vacation!
 
